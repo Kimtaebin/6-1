@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnStart" type="id" />
+    <item name="btnEnd" type="id" />
+    <item name="chronometer1" type="id" />
+    <item name="rdoCal" type="id" />
+    <item name="rdoTime" type="id" />
+    <item name="timePicker1" type="id" />
+    <item name="calendarView1" type="id" />
+    <item name="tvYear" type="id" />
+    <item name="tvMonth" type="id" />
+    <item name="tvDay" type="id" />
+    <item name="tvHour" type="id" />
+    <item name="tvMinute" type="id" />
+</resources>
